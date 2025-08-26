@@ -2,13 +2,12 @@
 
 ###
 
-<h3 align="center">Junior CS Student @ UMD | Cybersecurity & AI/ML Enthusiast</h3>
-
-###
+<h3 align="center">Junior CS Student @ UMD | Cybersecurity & AI/ML Enthusiast | Open to internships for Summer 2026</h3>
+<hr style="border: 1px solid #ccc; width: 80%;">
 
 <p align="left">💻 Technical Background:<br><br>Coursework in Java, C, x86-64 Assembly, OCaml, and Rust<br><br>Exploring projects in Cybersecurity, Artificial Intelligence, and Machine Learning<br><br>🚀 What drives me:<br>I’m passionate about solving problems at the intersection of Cyber Security and AI/ML, and I love building tools that push my skills further.<br><br>⚾ Outside of tech:<br>You’ll usually find me working out, playing baseball, or discovering new music.</p>
 
-###
+<hr style="border: 1px solid #ccc; width: 80%;">
 
 <h3 align="center">🔨 Languages and Tools ⛏️</h3>
 
@@ -40,8 +39,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
-###
-
+<hr style="border: 1px solid #ccc; width: 80%;">
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/nathan-danko-4013392b6" target="_blank">
